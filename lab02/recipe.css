@@ -1,0 +1,17 @@
+body {
+	background-color: deeppink;}
+h1 {
+	color: royalblue;
+}
+p {
+	color: brown;
+}
+h2 {
+	font-family: cursive;
+}
+h3 {
+	margin-bottom: 75px;
+}
+li{
+	text-transform: capitalize;
+}
